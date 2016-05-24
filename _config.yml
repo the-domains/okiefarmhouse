@@ -1,29 +1,40 @@
-name: OKIEFARMHOUSE
 favicon: null
-layout_spectrum: 0.07734328950755298
-typography_spectrum: 0.4602302743587643
-title: OKLAHOMA FARMHOUSE DESIGN
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: OKIEFARMHOUSE
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#9e9e9e'
-    - '#404040'
-    - '#258ed0'
-  brandStrength: 0.7939587263390422
-  lightness: 0.9605929832905531
-  saturation: 0.5938763420563191
-  rhythmicContrast: 0.7777072216849774
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4808841
+  brandStrength: 0.7939587263390422
+  lightness: 0.960593
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  rhythmicContrast: 0.4701314
+typography_spectrum: 0.4602302743587643
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.07734328950755298
+analytics:
+  twitter: null
+  google: null
+  facebook: null
