@@ -1,8 +1,7 @@
+name: OKIEFARMHOUSE
+favicon: null
 layout_spectrum: 0.07734328950755298
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.4602302743587643
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.4808841
-  brandStrength: 0.323178
-  lightness: 0.8787335
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.4701314
-typography_spectrum: 0.4602302743587643
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: OKIEFARMHOUSE
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#9e9e9e'
+    - '#404040'
+    - '#258ed0'
+  brandStrength: 0.323178
+  lightness: 0.8787335
+  saturation: 0.4808841
+  rhythmicContrast: 0.4701314
+purpose: []
