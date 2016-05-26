@@ -1,15 +1,20 @@
 ---
-title: Cottage Demo
-datePublished: '2016-05-26T00:15:01.878Z'
-dateModified: '2016-05-26T00:13:48.402Z'
-author: []
-description: 'Demo day on the cottage has begun! We spent all day working, completely gutting the entire interior. All we lack is ceiling insulation.'
-starred: false
-sourcePath: _posts/2016-05-26-cottage-demo.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'Demo day on the cottage has begun! We spent all day working, completely gutting the entire interior. All we lack is ceiling insulation.'
+datePublished: '2016-05-26T02:11:54.352Z'
+dateModified: '2016-05-26T02:09:43.949Z'
+title: Cottage Demo
+author: []
+sourcePath: _posts/2016-05-26-cottage-demo.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f563d8-7b8a-4985-bb6d-ab05748489ff.jpg)
