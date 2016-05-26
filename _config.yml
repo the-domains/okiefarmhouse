@@ -1,5 +1,4 @@
-favicon: null
-name: OKIEFARMHOUSE
+layout_spectrum: 0.07734328950755298
 opengraph:
   image: null
   type: null
@@ -10,17 +9,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.4808841
-  brandStrength: 0.7939587263390422
-  lightness: 0.960593
+  brandStrength: 0.323178
+  lightness: 0.8787335
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.07734328950755298
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: OKIEFARMHOUSE
