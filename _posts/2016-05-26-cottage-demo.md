@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Demo day on the cottage has begun! We spent all day working, completely gutting the entire interior. All we lack is ceiling insulation.'
-datePublished: '2016-05-26T02:11:54.352Z'
-dateModified: '2016-05-26T02:09:43.949Z'
+datePublished: '2016-05-26T02:12:26.634Z'
+dateModified: '2016-05-26T02:12:03.392Z'
 title: Cottage Demo
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-26-cottage-demo.md
 authors: []
 publisher: null
